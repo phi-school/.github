@@ -1,6 +1,6 @@
-# Contributing to Phi School
+# Contributing to phi school
 
-Thank you for your interest in contributing to Phi School! This guide provides an overview of how to successfully contribute.
+Thank you for your interest in contributing to phi school! This guide provides an overview of how to successfully contribute.
 
 ## Table of Contents
 
@@ -99,6 +99,8 @@ git commit -m "feat(users): add ability to delete own account"
 
 In this message, "feat" is the type of change being made, "users" is the scope (the area or part of the project that the change affects), and "add ability to delete own account" is a brief description of the change.
 
+It's okay to omit the scope if you're unsure. For example, `"feat: add ability to delete own account"` is valid.
+
 If you're unsure about which type to use, `feat` or `fix` are often good choices.
 
 ### 4. Run Tests
@@ -125,7 +127,7 @@ git push -u origin <branch-name>
 
 ### 7. Open a Pull Request
 
-Navigate to the main repo and open a Pull Request against it. Describe your changes thoroughly in the PR description.
+Navigate to the main repo and [open a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) against it. Describe your changes thoroughly in the PR description.
 
 ### 8. Code Review
 
@@ -174,6 +176,6 @@ Remember to always create a new branch when you're working on a new feature or f
 
 ## Code of Conduct
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone. Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) for more information.
+Be kind to all and please read our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-Thank you for contributing to Phi School!
+Thank you for contributing to phi school!
