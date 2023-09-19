@@ -82,14 +82,17 @@ Our project uses the [Conventional Commits format](https://www.conventionalcommi
 
 Here's a summary of the main types used in the Conventional Commits format:
 
+- `build`: Changes that affect the build system or external dependencies (e.g., updates to npm packages)
+- `chore`: Changes related to the build process or auxiliary tools and libraries, such as documentation generation
+- `ci`: Changes to your Continuous Integration configuration and scripts (e.g., GitHub Actions, CircleCI, etc.)
+- `docs`: Changes to documentation only
 - `feat`: A new feature
 - `fix`: A bug fix
-- `docs`: Changes to documentation only
-- `style`: Changes that don't affect the code's meaning (such as formatting, white-space adjustments, or missing semi-colons)
-- `refactor`: A code change that neither fixes a bug nor adds a feature
 - `perf`: A code change that improves performance
+- `refactor`: A code change that neither fixes a bug nor adds a feature, but restructuring code for readability or maintainability
+- `style`: Changes that don't affect the code's meaning (such as formatting, white-space adjustments, or missing semi-colons)
 - `test`: Changes related to adding missing tests or correcting existing ones
-- `chore`: Changes related to the build process or auxiliary tools and libraries, such as documentation generation
+
 
 Here's an example of a conventional commit message with a type, scope, and description:
 
