@@ -69,4 +69,4 @@ This repository contains phi school GitHub organization documents and [community
 
 ## Suggestions?
 
-If you have suggestions for additional documents or improvements, please [open an issue](link-to-issues). We value your feedback!
+If you have suggestions for additional documents or improvements, please [open an issue](https://github.com/phi-school/.github/issues). We value your feedback!
