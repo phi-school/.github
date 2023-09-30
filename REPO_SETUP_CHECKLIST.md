@@ -8,18 +8,18 @@
 - [ ] The default branch is set to `main`.
 - [ ] An image is provided for Social Preview (optional).
 - [ ] Issue templates are set up.
-   - [ ] Bug issue template.
-   - [ ] Feature request issue template.
+  - [ ] Bug issue template.
+  - [ ] Feature request issue template.
 - [ ] Allow squash merging is enabled.
   - [ ] Default message is set to pull request title.
   - [ ] Allow merge commits is disabled.
   - [ ] Allow rebase merging is disabled.
-- [ ] Automatically delete head branches. 
+- [ ] Automatically delete head branches.
 
 ## 2. Branch protection rules
 
 - [ ] Branch protection is enabled for `main`.
-- [ ] Require a pull request before merging. 
+- [ ] Require a pull request before merging.
 - [ ] Require status checks to pass before merging is enabled.
   - [ ] Require branches to be up to date before merging.
   - [ ] Specify the status checks that are required to pass.
@@ -47,7 +47,11 @@
   - [ ] Read and write permissions.
   - [ ] Allow GitHub Actions to create and approve pull requests.
 
-## 7. Community
+## 7. GitHub Apps
+
+- [ ] Relevant GitHub Apps are installed and properly configured.
+
+## 8. Community
 
 - [ ] Code of Conduct is present.
 - [ ] Contributing guide is present.
