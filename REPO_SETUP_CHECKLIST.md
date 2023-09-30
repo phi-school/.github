@@ -57,6 +57,6 @@
 - [ ] Contributing guide is present.
 - [ ] Pull request template is set up.
 
-## 8. Sponsorship (Optional)
+## 9. Sponsorship (Optional)
 
 - [ ] Sponsorship options are set up if the project is open source.
