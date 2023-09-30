@@ -27,7 +27,7 @@ This repository contains phi school GitHub organization documents and [community
   </tr>
 
   <tr>
-    <td><a href="./pull_request_template.md">pull_request_template</a></td>
+    <td><a href="./.github/pull_request_template.md">pull_request_template</a></td>
     <td>
       A default template for making pull requests to our projects. This will
       ensure contributors provide all necessary information and maintain a standard format.
@@ -35,14 +35,14 @@ This repository contains phi school GitHub organization documents and [community
   </tr>
 
   <tr>
-    <td><a href="./ISSUE_TEMPLATE/feature_request.md">ISSUE_TEMPLATE/feature_request</a></td>
+    <td><a href="./.github/ISSUE_TEMPLATE/feature_request.md">ISSUE_TEMPLATE/feature_request</a></td>
     <td>
       A template for submitting feature requests in our repositories.
     </td>
   </tr>
 
   <tr>
-    <td><a href="./ISSUE_TEMPLATE/bug_report.md">ISSUE_TEMPLATE/bug_report</a></td>
+    <td><a href="./.github/ISSUE_TEMPLATE/bug_report.md">ISSUE_TEMPLATE/bug_report</a></td>
     <td>
       A template for submitting bug reports in our repositories.
     </td>
